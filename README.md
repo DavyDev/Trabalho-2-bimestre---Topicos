@@ -1,3 +1,5 @@
+Baixe o arquivo zipado e descompacta os arquivos e basta acessalos e startar eles após as dicas abaixo.
+
 # Como rodar o Front-End
 
 Basta estar dentro na pasta e no terminal do VSCode dar o comando "npm start"
